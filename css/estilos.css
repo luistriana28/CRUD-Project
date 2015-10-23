@@ -1,0 +1,163 @@
+body{
+    background: url(../images/images.png) no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#imagenPrincipal{
+ width: 1290px;
+ 
+}
+
+#imagen1{
+   width:100%; 
+}
+
+#imagen2{
+  width: 80%;
+    margin-left: 150px;
+}
+
+#usuario{
+ margin-left: 250px;
+}
+
+#opmenus{
+  margin-top: 10px; 
+}
+
+#redSocial{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+}
+
+.navbar-default{
+ background: url(../images/images.png) no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+}
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: white;
+    background-color: silver;
+    opacity: 0.8;
+    border-radius: 20px;
+}
+.navbar-default .navbar-nav > li >a:hover  {
+    color: white;
+    background-color: silver;
+    opacity: 0.8;
+    border-radius:20px;
+}
+.navbar-default .navbar-brand:focus {
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+}
+.navbar-default .navbar-nav > li >a:focus  {
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+}
+h2{
+    color:white;
+}
+
+#sociales{
+    border-right: 2px solid white;
+}
+
+#direccion{
+  color: white;
+}
+
+#area_pagina{
+    
+}
+
+#rTecnicos{
+ color: white;
+    margin-left: 450px;
+}
+
+#eySalidas{
+  color: white;
+    margin-left: 450px;  
+}
+
+#eDanados{
+    color: white;
+    margin-left: 450px;
+}
+
+#garantia{
+    color: white;
+    margin-left: 500px;
+}
+
+#iyCompras{
+ color: white;
+    margin-left: 450px;   
+}
+
+#proveedor{
+ color: white;
+    margin-left: 450px;   
+}
+
+#rEquipos{
+ color: white;
+    margin-left: 450px;   
+}
+
+#rcInternet{
+   color: white;
+    margin-left: 350px;  
+}
+
+#textoprincipal{
+  font-size: 20px;
+  color: white;
+    
+}
+
+.panel-default{
+  height: 350px;
+  width: 700px;
+}
+
+#imagenprincipal{
+    height: 450px;
+    width: 600px;
+    border-radius: 20px;
+}
+
+#social{
+    font-size: 30px;
+    color: white;
+    
+}
+#almacen{
+    margin-top: 10px;    
+}
+
+#articulos{
+    margin-top: 10px;
+}
+
+#imgusers{
+    
+}

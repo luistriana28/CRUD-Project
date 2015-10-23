@@ -1,0 +1,108 @@
+#adminback{
+    background: url(../imagenes/skyblue.jpg) no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+
+#imagenprincipal{
+    width: 1250px;
+    height: 380px;
+    margin-top: 20px;
+}
+.table-bordered
+{
+    border-style: ridge;
+    border-width: 5px;
+    color: white;
+}
+
+th{
+ color: black;
+}
+
+#backind{
+ background-color: black;
+}
+
+#tituser{
+    font-size: 30px;
+    color: white;
+    
+}
+
+#usertit{
+  font-size: 34px;
+    color: white;
+}
+
+#fondoind{
+ background-color: black;   
+}
+#titusuarios{
+    color: black;
+}
+#auser{
+ margin-left: 350px;
+    color: white;
+}
+.navbar-default{
+  background-color: transparent;
+  border-color: transparent;
+
+}
+
+#empresa{
+ color: white;
+ font-size: 50px;
+    margin-top: 10px;
+}
+
+#usuario{
+    margin-left: 750px;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    font-size: 20px;
+    
+}
+#menus{
+ background-color:transparent;
+}
+
+#fondo{
+ background-color: black;
+ padding-bottom: 450px;
+ opacity: 0.8
+}
+
+.nav-pills > li > a{
+    color: white;
+    border-style: solid;
+    margin-left: 40px;
+}
+
+.nav-pills > li > a:hover{
+ background-color: white;
+ color: black;
+}
+
+.panel-default > .panel-heading{
+    background-color: forestgreen;
+    color: black;
+    font-size: 30px;
+    padding-left: 500px
+}
+
+.nav-pills> li > a:focus{
+   background-color: cadetblue;
+    color: white;
+}
+
+#titulostable{
+ color:white;   
+}

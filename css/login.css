@@ -1,0 +1,38 @@
+body {
+    background: url(../images/blackground.jpg) no-repeat fixed center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+}
+
+#casa{
+ font-size: 20px;
+    color: lawngreen;
+}
+#panel{
+    margin-top: 100px;   
+}
+
+#titulo{
+ padding-left: 330px;
+    font-size: 100px;
+    color:aquamarine;
+}
+
+#pass{
+ color:white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#user{
+  color:white;
+    font-size: 20px;  
+}
+
+#log{
+ margin-top: 10px;
+    margin-left:70px;
+    margin-bottom: 40px;
+}
